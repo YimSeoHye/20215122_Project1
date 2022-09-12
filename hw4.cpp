@@ -13,5 +13,6 @@ int main() {
 			sum += i;
 		}
 	}
+
 	cout << " = " << sum + 1;
 }
